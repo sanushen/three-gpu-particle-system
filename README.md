@@ -2,7 +2,7 @@
 
 > NodeJS wrapper for Three.js' GPU Particle System
 
-By default, [Three.js](https://www.npmjs.com/package/three) does not have [GPU Particle System](https://threejs.org/examples/#webgl_loader_3ds) built in. This is a NodeJS wrapper for the GPU Particle System so that it can be used with npm in systems using browserify, webpack, etc.
+By default, [Three.js](https://www.npmjs.com/package/three) does not have [GPU Particle System](https://threejs.org/examples/?q=gpu#webgl_gpu_particle_system) built in. This is a NodeJS wrapper for the GPU Particle System so that it can be used with npm in systems using browserify, webpack, etc.
 
 ## Install
 
