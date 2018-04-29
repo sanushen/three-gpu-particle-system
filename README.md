@@ -1,4 +1,4 @@
-# three-tds-loader 
+# Three.JS GPU Particle System
 
 > NodeJS wrapper for Three.js' GPU Particle System
 
